@@ -25,7 +25,7 @@
     
     self.window.rootViewController = [ViewController new];
     
-    
+    NSLog(@"lalal");
     
     return YES;
 }
